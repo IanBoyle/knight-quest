@@ -1,3 +1,8 @@
-This game was made using the fundamentals found in he tutorial How to make a Video Game - Godot Beginner Tutorial
+This game was made using the fundamentals found in the tutorial 
 
-https://www.youtube.com/watch?v=LOhfqjmasi0
+How to make a Video Game - Godot Beginner Tutorial
+[![YouTube Video Preview](https://www.youtube.com/watch?v=LOhfqjmasi0.jpg)](
+https://www.youtube.com/watch?v=LOhfqjmasi0)
+
+
+
